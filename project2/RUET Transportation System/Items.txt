@@ -1,0 +1,3 @@
+0 Akota(10:50AM_1:20PM) 12.0
+1 ruet-zeropoint(2pm-3pm) 3.0
+2 ruet-katakhali 3.0
